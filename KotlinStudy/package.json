@@ -1,0 +1,13 @@
+{
+  "name": "kotlin",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.0.0-alpha.6",
+    "react-native": "^0.44.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  }
+}
